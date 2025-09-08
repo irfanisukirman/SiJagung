@@ -11,7 +11,7 @@ Dengan sistem digital, semua proses lebih **terstruktur, terdokumentasi, dan tra
 - Pastikan Anda login menggunakan akun Gmail yang telah diberikan akses.  
 - Jika belum memiliki akses, hubungi admin.  
 
-![Tampilan Halaman Dashboard]([https://i.postimg.cc/nLf4sH29/Screenshot-2025-09-08-093637.png](https://i.postimg.cc/gj6rJQxM/Screenshot-2025-09-08-103118.png)
+![Tampilan Halaman Dashboard](https://i.postimg.cc/gj6rJQxM/Screenshot-2025-09-08-103118.png)
 
 ---
 
