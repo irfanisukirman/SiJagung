@@ -1,4 +1,4 @@
-# 📘 Tata Cara Penggunaan Sistem Digital Penjadwalan Pemeliharaan Rutin Gedung BPSDM Provinsi Jawa Barat
+# 📘 Tata Cara Penggunaan SiJagung BPSDM Provinsi Jawa Barat 📘
 
 ## 1. Pendahuluan
 Sistem ini dibuat untuk mempermudah pencatatan, monitoring, dan pengelolaan pemeliharaan gedung.  
