@@ -11,7 +11,7 @@ Dengan sistem digital, semua proses lebih **terstruktur, terdokumentasi, dan tra
 - Pastikan Anda login menggunakan akun Gmail yang telah diberikan akses.  
 - Jika belum memiliki akses, hubungi admin.  
 
-![Tampilan Halaman Dashboard](https://i.postimg.cc/nLf4sH29/Screenshot-2025-09-08-093637.png)
+![Tampilan Halaman Dashboard]([https://i.postimg.cc/nLf4sH29/Screenshot-2025-09-08-093637.png](https://i.postimg.cc/gj6rJQxM/Screenshot-2025-09-08-103118.png)
 
 ---
 
@@ -24,7 +24,7 @@ Sistem terdiri dari beberapa bagian utama:
   - `Status` → Pilih salah satu: *Antrian, Proses, Selesai*.  
   - `Penanggung Jawab` → Nama petugas yang bertanggung jawab.  
 
-![Dashboard](https://i.postimg.cc/C5dTXm2w/Screenshot-2025-09-08-093957.png)
+![Dashboard](https://i.postimg.cc/s2mHr6dL/Screenshot-2025-09-08-102612.png)
 
 ---
 
