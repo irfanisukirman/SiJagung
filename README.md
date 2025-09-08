@@ -39,7 +39,7 @@ Sistem terdiri dari beberapa bagian utama:
 
 ---
 
-## 6. Notifikasi Otomatis
+## 5. Notifikasi Otomatis
 - Sistem akan otomatis mengirim pesan ke **grup Telegram** jika:  
   1. Lokasi terisi.  
   2. Status dipilih (*Antrian, Proses, atau Selesai*).  
@@ -60,7 +60,7 @@ Sistem terdiri dari beberapa bagian utama:
 
 ---
 
-## 7. Log & Monitoring
+## 6. Log & Monitoring
 - Semua perubahan akan otomatis dicatat pada sheet **Log**.  
 - Data yang tercatat:  
   - Tanggal & Waktu Perubahan.  
@@ -73,21 +73,21 @@ Sistem terdiri dari beberapa bagian utama:
 
 ---
 
-## 8. Kesalahan Umum & Solusi
+## 7. Kesalahan Umum & Solusi
 - **Lupa isi penanggung jawab** → Kolom akan merah, pesan tidak terkirim.  
 - **Salah pilih status** → Perbaiki dengan memilih status yang benar.  
 - **Tidak muncul notifikasi di Telegram** → Pastikan semua kolom wajib sudah terisi.  
 
 ---
 
-## 9. Tips Pemakaian
+## 8. Tips Pemakaian
 - Selalu cek kembali sebelum mengubah status.  
 - Gunakan data yang konsisten (nama, lokasi, format tanggal).  
 - Gunakan kolom sesuai fungsinya.  
 
 ---
 
-## 10. Kontak Bantuan
+## 9. Kontak Bantuan
 Jika mengalami kendala, hubungi:  
 📧 irfani.sukirman@gmail.com   
 📱 088229270639  
